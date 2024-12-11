@@ -2,7 +2,7 @@
 price = float(input("Please type in a price: "))
 
 
-dinars = int(price)  # Integer part
+dinars = int(price) 
 centimes = round((price - dinars) * 100)  
 
 
