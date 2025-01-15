@@ -1,4 +1,12 @@
- Python Practice Exercises
+Solution by
+Name: Fiala Zakaria
+Matricule: 222231520401
+Section: A
+Group: 2
+Filter: 3rd year Cyber Security engeneer in infomatics
+
+
+Python Practice Exercises
 
 This repository contains a collection of Python exercises designed to help students improve their programming skills. The exercises cover various topics, including:
 
